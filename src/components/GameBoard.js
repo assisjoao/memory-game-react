@@ -1,9 +1,11 @@
 import React from 'react';
+import CardElement from './CardElement';
 
-export default GameBoard(){
+export default function GameBoard(props){
     return (
-        <div>
-            
+        <div id='gameBoard'>
+            {props.cards.map((card,index) =>
+                <CardElement key={index} card={card}></CardElement>)}
         </div>
     )
-}
+};
