@@ -11,4 +11,4 @@ The project was created with React and JavaScript Vanilla. Hooks, props and comp
 - Measure the time.
 - The winner is who find all pairs in the shortest time.
 
-## Acess the game here: 
+## Acess the game here: [https://assisjoao.github.io/memory-game-react/](https://assisjoao.github.io/memory-game-react/)
