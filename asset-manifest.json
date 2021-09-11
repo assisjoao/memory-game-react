@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.dd0194a2.chunk.css",
-    "main.js": "/github-page/static/js/main.382b127c.chunk.js",
-    "main.js.map": "/github-page/static/js/main.382b127c.chunk.js.map",
-    "runtime-main.js": "/github-page/static/js/runtime-main.73fb3c9a.js",
-    "runtime-main.js.map": "/github-page/static/js/runtime-main.73fb3c9a.js.map",
-    "static/js/2.9bbe759e.chunk.js": "/github-page/static/js/2.9bbe759e.chunk.js",
-    "static/js/2.9bbe759e.chunk.js.map": "/github-page/static/js/2.9bbe759e.chunk.js.map",
-    "static/js/3.30b2839a.chunk.js": "/github-page/static/js/3.30b2839a.chunk.js",
-    "static/js/3.30b2839a.chunk.js.map": "/github-page/static/js/3.30b2839a.chunk.js.map",
-    "index.html": "/github-page/index.html",
-    "static/css/main.dd0194a2.chunk.css.map": "/github-page/static/css/main.dd0194a2.chunk.css.map",
-    "static/js/2.9bbe759e.chunk.js.LICENSE.txt": "/github-page/static/js/2.9bbe759e.chunk.js.LICENSE.txt"
+    "main.css": "/memoria-react/static/css/main.dd0194a2.chunk.css",
+    "main.js": "/memoria-react/static/js/main.382b127c.chunk.js",
+    "main.js.map": "/memoria-react/static/js/main.382b127c.chunk.js.map",
+    "runtime-main.js": "/memoria-react/static/js/runtime-main.256dc445.js",
+    "runtime-main.js.map": "/memoria-react/static/js/runtime-main.256dc445.js.map",
+    "static/js/2.9bbe759e.chunk.js": "/memoria-react/static/js/2.9bbe759e.chunk.js",
+    "static/js/2.9bbe759e.chunk.js.map": "/memoria-react/static/js/2.9bbe759e.chunk.js.map",
+    "static/js/3.30b2839a.chunk.js": "/memoria-react/static/js/3.30b2839a.chunk.js",
+    "static/js/3.30b2839a.chunk.js.map": "/memoria-react/static/js/3.30b2839a.chunk.js.map",
+    "index.html": "/memoria-react/index.html",
+    "static/css/main.dd0194a2.chunk.css.map": "/memoria-react/static/css/main.dd0194a2.chunk.css.map",
+    "static/js/2.9bbe759e.chunk.js.LICENSE.txt": "/memoria-react/static/js/2.9bbe759e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.73fb3c9a.js",
+    "static/js/runtime-main.256dc445.js",
     "static/js/2.9bbe759e.chunk.js",
     "static/css/main.dd0194a2.chunk.css",
     "static/js/main.382b127c.chunk.js"
